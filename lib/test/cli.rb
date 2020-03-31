@@ -1,4 +1,5 @@
 require "test/cli/version"
+require "test/cli/commands"
 
 module Test
   module Cli

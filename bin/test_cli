@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
 require "bundler/setup"
-require "recipeCLI"
+require "test/cli"
 
-RecipeCLI::CLI.new.start
+Test_cli::CLI.new.start
