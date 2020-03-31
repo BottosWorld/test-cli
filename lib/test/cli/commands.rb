@@ -1,4 +1,4 @@
-class Test_cli::CLI
+class TestCLI::CLI
   
   def start
     puts "Hello there!"
